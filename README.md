@@ -1,4 +1,4 @@
-# LS_WASP_IRT
+# Location-Scatter Wasserstein posterior (LS-WASP) algorithms for 2PL and M2PL models
 This repository contains R codes for the paper titled "Optimizing Large-Scale Educational Assessment with a ‘Divide-and-Conquer’ Strategy: Fast and Efficient Distributed Bayesian Inference in IRT Models".
 
 The "2PL_model" folder and the "M2PL_model" folder contain the code for the location-scatter Wasserstein posterior (LS-WASP) algorithm and the PG-Gibbs (Polya-Gamma) algorithm in Section 3, respectively. Each file in the "2PL_model" folder include:
